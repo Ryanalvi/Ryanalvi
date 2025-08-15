@@ -8,9 +8,9 @@
 
 > **"Success is not final, failure is not fatal: it is the courage to continue that counts."** - Winston Churchill
 
-Hey there! I'm **M Ryan Alvi**, a passionate **COO & IT Consultant** with deep technical expertise and a love for building robust, scalable solutions. I'm the **COO & Co-Founder of Geek Tech Sol**, where I've been crafting digital experiences and leading technical teams.
+I'm **M Ryan Alvi**, a passionate **COO & IT Consultant** with deep technical expertise and a commitment to building robust, scalable solutions. I'm the **COO & Co-Founder of Geek Tech Sol**, where I've been crafting digital experiences and leading technical teams.
 
-I'm a **self-taught developer** who chose practical learning over formal education, and this approach has been my greatest strength. I specialize in **Odoo hosting solutions**, **IT consulting**, **technical architecture**, and **team leadership**. From building custom Odoo solutions to managing enterprise infrastructure, I love turning complex challenges into elegant, scalable solutions.
+I'm a **self-taught developer** who chose practical learning over formal education, and this approach has been my greatest strength. I specialize in **Odoo hosting solutions**, **IT consulting**, **technical architecture**, and **team leadership**. From building custom Odoo solutions to managing enterprise infrastructure, I excel at transforming complex challenges into elegant, scalable solutions.
 
 **🎯 Core Strengths:** Strategic Leadership • Technical Architecture • Odoo Expertise • Team Development • Business Development • Infrastructure Management
 
@@ -40,6 +40,7 @@ I'm a **self-taught developer** who chose practical learning over formal educati
 * 🖼️ **Graphics & Design** - Adobe Creative Suite (Photoshop, Illustrator)
 * 📋 **Project Management** - Client requirements analysis, technical architecture, quality assurance
 * 📱 **Digital Marketing** - Social media management and paid advertising campaigns
+* 📄 **Business Documentation** - Drafted agreements, proposals, contracts, and business documents
 
 ### **VOD Platform Project**
 
@@ -49,9 +50,9 @@ I'm a **self-taught developer** who chose practical learning over formal educati
 
 ### **Gaming Infrastructure Project**
 
-* 🎮 **Apex Legends Bot Farm** - Setup and managed bot-based XP farm using desktop computers
-  * 🌐 **Network Infrastructure:** Network switches, cable punching, static IP routing
-  * 🖥️ **Remote Management:** Headless setup, RDP/VNC access to all machines
+* 🎮 **Automated Gaming Infrastructure** - Setup and managed automated gaming infrastructure for Apex Legends XP farming using desktop computers
+  * 🌐 **Network Infrastructure:** Network switches, cable termination, static IP routing, network administration
+  * 🖥️ **Advanced Remote Management:** Achieved headless setup through extensive technical work, enabling RDP/VNC access to all machines
   * ⚡ **Virtualization:** Virtual machine management and optimization
   * 🔧 **Troubleshooting:** System diagnostics and problem resolution
 
@@ -73,7 +74,6 @@ _From backend development to infrastructure management, I've mastered the full s
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF6B35?style=flat-square&logo=scraping&logoColor=white)
 
 ### **Frontend Development**
 
@@ -109,7 +109,6 @@ _While development isn't my primary focus, I can effectively work with both fron
 ![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FF6600?style=flat-square&logo=websocket&logoColor=white)
-![Testing](https://img.shields.io/badge/-Testing-5CB85C?style=flat-square&logo=testing-library&logoColor=white)
 
 ### **Databases & Data Management**
 
@@ -184,14 +183,12 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 ![SSL/TLS](https://img.shields.io/badge/-SSL/TLS-1F1F1F?style=flat-square&logo=ssl&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
-![Certificate Management](https://img.shields.io/badge/-Certificate%20Management-FF6B35?style=flat-square&logo=certificate&logoColor=white)
 
 ### **Email & Communication Tools**
 
 ![Microsoft Outlook](https://img.shields.io/badge/-Microsoft%20Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
 ![Thunderbird](https://img.shields.io/badge/-Thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=white)
 ![Windows Mail](https://img.shields.io/badge/-Windows%20Mail-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Email Server Management](https://img.shields.io/badge/-Email%20Server%20Management-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### **Video & Media Platforms**
 
@@ -199,9 +196,9 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 ### **Network Infrastructure**
 
-![Network Administration](https://img.shields.io/badge/-Network%20Administration-1F1F1F?style=flat-square&logo=network&logoColor=white)
-![IP Configuration](https://img.shields.io/badge/-IP%20Configuration-0066CC?style=flat-square&logo=ip&logoColor=white)
-![Network Cabling](https://img.shields.io/badge/-Network%20Cabling-FF6600?style=flat-square&logo=cable&logoColor=white)
+![Network Switches](https://img.shields.io/badge/-Network%20Switches-1F1F1F?style=flat-square&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/-Routing-0066CC?style=flat-square&logo=router&logoColor=white)
+![Network Security](https://img.shields.io/badge/-Network%20Security-FF6600?style=flat-square&logo=security&logoColor=white)
 
 ### **Productivity & Office Tools**
 
@@ -234,8 +231,8 @@ _While development isn't my primary focus, I can effectively work with both fron
 ![Computer Hardware](https://img.shields.io/badge/-Computer%20Hardware-1F1F1F?style=flat-square&logo=hardware&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Hardware Troubleshooting](https://img.shields.io/badge/-Hardware%20Troubleshooting-FF6B35?style=flat-square&logo=troubleshooting&logoColor=white)
-![PC Servicing](https://img.shields.io/badge/-PC%20Servicing-FF6600?style=flat-square&logo=computer&logoColor=white)
+![BIOS](https://img.shields.io/badge/-BIOS-1F1F1F?style=flat-square&logo=bios&logoColor=white)
+![Drivers](https://img.shields.io/badge/-Drivers-FF6B35?style=flat-square&logo=driver&logoColor=white)
 
 ---
 
@@ -281,6 +278,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 * **Reverse Proxy & Load Balancing** - Nginx, Traefik for domain-based routing with SSL termination
 * **Advanced Security** - Cloudflare Zero Trust, SSL certificates, and security hardening
 * **SSL Certificate Management** - Let's Encrypt automation, certificate renewal, and SSL configuration
+* **Email Server Management** - Complete email server setup, user management, and email client configuration
 * **File Transfer Protocols** - FTP, SFTP, SCP for secure file management and deployment
 * **Backup & Recovery** - Automated backups, cloud sync for enterprise-grade data protection
 
@@ -290,6 +288,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 * **Web Panel Management** - Comprehensive experience with WHM, cPanel, CWP, and HestiaCP
 * **WHM Administration** - Multi-account management, server configuration, and hosting provider tools
 * **DNS Records Management** - MX, A, CNAME, TXT records, domain configuration, and DNS propagation
+* **Network Administration** - IP configuration, network cabling, switch management, and network troubleshooting
 * **Reverse Proxy Setup** - Configuring Nginx/Traefik for domain-based routing with SSL termination
 * **Email Infrastructure** - Complete email server setup, user management, and email client configuration
 * **SSL & Security** - Domain configuration with Let's Encrypt, security hardening, and SSL management
@@ -298,7 +297,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 ### **🖥️ Hardware & System Administration**
 
-* **Complete PC Servicing** - Hardware cleaning, thermal paste replacement, power supply maintenance
+* **Complete PC Servicing** - Hardware cleaning, thermal interface material replacement, power supply unit (PSU) maintenance
 * **OS Installation & Configuration** - Windows, Linux installation with bootable media creation
 * **BIOS & Driver Management** - System configuration, driver updates, and optimization
 * **Printer Infrastructure** - USB and network printer setup for laser and thermal printers
@@ -318,7 +317,7 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎯 **100+ Odoo Installations** | Complete setup with dependencies, backups, and cloud sync | Odoo, Python, Docker, Cloud Platforms |
-| 🤖 **Gaming Bot Infrastructure** | Advanced automation for Apex Legends XP farming | Python, Network Infrastructure |
+| 🤖 **Automated Gaming Infrastructure** | Advanced automation with headless setup for Apex Legends XP farming infrastructure management | Python, Network Infrastructure, Remote Management |
 | 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, SEO, Hosting Management |
 | 🛒 **E-commerce Solutions** | Multiple profitable WooCommerce implementations | WordPress, WooCommerce, PHP, MySQL |
 | 🏏 **Cricket Scoring App** | Full-stack cricket scoring application with live updates, user management, and tournament systems | FastAPI, Next.js, Tailwind CSS, shadcn/ui, WebSockets, PostgreSQL |
@@ -355,7 +354,7 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 
 ## 📚 **Learning Philosophy & Journey**
 
-> **"Learning the hard way through hands-on experience, online resources, and continuous self-improvement."**
+> **"Learning through hands-on experience, online resources, and continuous self-improvement."**
 
 ### **🚀 Self-Taught Excellence**
 
@@ -382,10 +381,10 @@ I'm a **self-taught developer** who believes in practical, hands-on learning. Th
 
 ## 💡 **Fun Facts**
 
-* 🎮 **Gamer** - When not coding, I'm probably gaming
+* 🎮 **Gaming Enthusiast** - Strategic gaming for problem-solving and team coordination
 * 🌍 **English Speaker** - Fluent in English for global collaboration
-* 🤖 **AI Enthusiast** - Love exploring AI tools and automation
-* 🚀 **Tech Explorer** - Always experimenting with new technologies
+* 🤖 **AI Enthusiast** - Exploring AI tools and automation for business efficiency
+* 🚀 **Tech Explorer** - Continuously experimenting with emerging technologies
 
 ---
 
