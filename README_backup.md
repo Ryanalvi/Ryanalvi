@@ -9,26 +9,26 @@
 **COO** at [Geek Tech Sol](https://geektechsol.com) - Leading IT consulting services and Odoo hosting solutions for businesses worldwide.
 
 ## 🎓 **Education**
-**BSc. (Hons.) Computer Sciences**
+**BSc. (Hons.) Computer Sciences** - 2017-2021
 
 ---
 
 ## 💼 **Professional Journey**
 
-### **COO & Co-Founder**
+### **2022 - Present: COO & Co-Founder**
 - **Geek Tech Sol** - Co-founded and leading strategic initiatives and technical operations
 - **Odoo Hosting Specialist** - 100+ successful Odoo installations and deployments
 - **IT Consulting** - B2B solutions for IT service providers and businesses
 - **Python Development** - Currently developing Odoo apps and automation solutions
 
-### **Post-Agency Projects**
+### **2020-2021: Post-Agency Projects**
 - **Gaming Infrastructure** - Setup and managed bot-based XP farm for Apex Legends using desktop computers
   - **Network Infrastructure:** Network switches, cable punching, static IP routing
   - **Remote Management:** Headless setup, RDP/VNC access to all machines
   - **Virtualization:** Virtual machine management and optimization
   - **Troubleshooting:** System diagnostics and problem resolution
 
-### **IT Agency Founder & Technical Lead**
+### **2017-2020: IT Agency Founder & Technical Lead**
 - **Co-founded IT Agency** Partnered with US-based company
 - **Team Leadership** - Trained and managed teams of developers, designers, and interns
 - **Technical Oversight** - Managed PHP, Laravel, CodeIgniter, CakePHP, MySQL, MongoDB projects
@@ -37,12 +37,12 @@
 - **Project Management** - Client requirements analysis, technical architecture, quality assurance
 - **Digital Marketing** - Social media management and paid advertising campaigns
 
-### **VOD Platform Project**
+### **2016-2017: VOD Platform Project**
 - **Hollydan Works Canada** - Built and managed in-house VOD platform (HWCFlix)
 - **Kaltura Integration** - Managed hosting, deployment, and thousands of video assets
 - **SEO Optimization** - Implemented comprehensive on-page SEO strategies
 
-### **Freelance & Ongoing Work**
+### **2014-2024: Freelance & Ongoing Work**
 - **WordPress Development** - Custom themes, WooCommerce, page builders (Elementor, Divi, WP Bakery)
 - **Graphics Design** - Adobe Photoshop, Illustrator, CorelDraw
 - **E-commerce Solutions** - Multiple successful WooCommerce implementations
