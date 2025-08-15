@@ -144,6 +144,7 @@ _From backend development to infrastructure management, I've mastered the full s
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-932279?style=flat-square&logo=centos&logoColor=white)
+![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![CloudLinux](https://img.shields.io/badge/-CloudLinux-FF6600?style=flat-square&logo=cloudlinux&logoColor=white)
 
 ### **Networking & Security**
