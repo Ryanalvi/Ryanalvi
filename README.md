@@ -69,61 +69,77 @@ _From backend development to infrastructure management, I've mastered the full s
 
 ### **Backend Development**
 
-Python Flask Quart FastAPI Go Gin Bash
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### **Frameworks & Libraries**
 
-Laravel CodeIgniter CakePHP VueJS AngularJS
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ### **Databases & Data Management**
 
-MySQL MariaDB MongoDB PostgreSQL
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### **CMS & Content Platforms**
 
-WordPress WooCommerce Odoo
-
-### **API Development**
-
-RESTful APIs API Integration Webhooks
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 ### **DevOps & Infrastructure**
 
-Docker Proxmox VMware VirtualBox LXC
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 ### **Cloud Platforms & Hosting**
 
-AWS Google Cloud Digital Ocean Oracle Cloud Bluehost Hetzner
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 ### **Web Servers & Reverse Proxy**
 
-Apache Nginx LiteSpeed Traefik
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/-Traefik-1F1F1F?style=flat-square&logo=traefik&logoColor=white)
 
 ### **Operating Systems & Virtualization**
 
-Ubuntu Debian CentOS CloudLinux
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-932279?style=flat-square&logo=centos&logoColor=white)
 
 ### **Networking & Security**
 
-SSH FTP SSL/TLS DNS Management Cloudflare Zero Trust
-
-### **Backup & Storage Solutions**
-
-Automated Backups Cloud Sync Google Drive OneDrive S3
+![SSH](https://img.shields.io/badge/-SSH-000000?style=flat-square&logo=ssh&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### **Design & Frontend** _(AI-Assisted)_
 
-Adobe Photoshop Adobe Illustrator CorelDraw Bootstrap SASS Responsive Design
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 _While frontend isn't my primary focus, I can effectively work with it using AI assistance and have a solid understanding of web structures and modern frameworks._
+
+### **Office & Productivity Tools**
+
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### **Mobile & App Development**
 
 WebView Apps Android iOS App Store Publishing
-
-### **Office & Productivity Tools**
-
-Microsoft Office Word Excel PowerPoint
 
 ### **Hardware & Maintenance**
 
