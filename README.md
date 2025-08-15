@@ -241,6 +241,7 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 * **📊 Quality Champion** - Ensuring deliverables meet the highest standards
 * **🌍 Global Experience** - Working with international clients and managing distributed teams
 * **🎮 Innovation Driver** - Pushing boundaries with automation and AI-powered solutions
+* **⏰ 10+ Years Experience** - Deep expertise gained from continuous learning and hands-on practice since 2014
 
 ---
 
