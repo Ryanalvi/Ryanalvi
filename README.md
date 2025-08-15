@@ -315,18 +315,26 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 _Showcasing innovative solutions that demonstrate technical excellence and business impact_
 
+### **🎯 Featured Projects**
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎯 **100+ Odoo Installations** | Complete setup with dependencies, backups, and cloud sync | Odoo, Python, Docker, Cloud Platforms |
 | 🤖 **Gaming Bot Infrastructure** | Advanced automation for Apex Legends XP farming | Python, Network Infrastructure |
 | 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, SEO, Hosting Management |
 | 🛒 **E-commerce Solutions** | Multiple profitable WooCommerce implementations | WordPress, WooCommerce, PHP, MySQL |
-| 🏢 **IT Agency Growth** | Scaled from startup to established service provider | Team Leadership, Business Development |
-| **🏏 Cricket Scoring App** | **Full-stack cricket scoring application with live updates, user management, and tournament systems** |
-| **🚀 Odoo Enterprise Solutions** | **Complete Odoo hosting, customization, and AI-assisted module development** |
-| **🌐 Web Scraping & Data Processing** | **Automated data extraction with Python libraries and Excel macro processing** |
-| **☁️ Multi-Cloud Infrastructure** | **AWS, Google Cloud, Digital Ocean, Oracle Cloud deployment and management** |
-| **🔧 DevOps & System Administration** | **Proxmox, Docker, VMware, and enterprise server management** |
+| 🏏 **Cricket Scoring App** | Full-stack cricket scoring application with live updates, user management, and tournament systems | FastAPI, Next.js, Tailwind CSS, shadcn/ui, WebSockets, PostgreSQL |
+| 🌐 **Web Scraping & Data Processing** | Automated data extraction with Python libraries and Excel macro processing | Python, Requests, BeautifulSoup, Pandas, Pillow, Excel Macros |
+| ☁️ **Multi-Cloud Infrastructure** | AWS, Google Cloud, Digital Ocean, Oracle Cloud deployment and management | AWS, Google Cloud, Digital Ocean, Oracle Cloud, Docker, Terraform |
+| 🔧 **DevOps & System Administration** | Proxmox, Docker, VMware, and enterprise server management | Proxmox, Docker, VMware, Ubuntu, CentOS, CloudLinux |
+
+### **🏆 Key Achievements**
+
+* **🏢 IT Agency Growth** - Scaled from startup to established service provider with team leadership and business development
+* **🚀 Odoo Enterprise Solutions** - Complete Odoo hosting, customization, and AI-assisted module development expertise
+* **📊 10+ Years Experience** - Deep expertise gained from continuous learning and hands-on practice since 2014
+* **🌍 Global Client Base** - Successfully managed international projects and distributed teams
+* **🔒 Security Excellence** - Implemented enterprise-level security practices across all client solutions
 
 ---
 
