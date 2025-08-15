@@ -74,7 +74,7 @@ _From backend development to infrastructure management, I've mastered the full s
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![API Development](https://img.shields.io/badge/-API%20Development-FF6B35?style=flat-square&logo=api&logoColor=white)
 
-### **Frontend Development** _(AI-Assisted)_
+### **Frontend Development**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -84,6 +84,8 @@ _From backend development to infrastructure management, I've mastered the full s
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+_While development isn't my primary focus, I can effectively work with both frontend and backend using AI assistance and have a solid understanding of modern web development structures and frameworks._
 
 ### **UI Component Libraries**
 
