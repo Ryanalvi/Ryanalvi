@@ -1,9 +1,9 @@
-# 👨‍�� M Ryan Alvi
+# 👨‍💻 M Ryan Alvi
 
 > **"Code, Deploy, Lead, Repeat" 🔄**  
 > *COO & Co-Founder of Geek Tech Sol | Full-Stack Developer | DevOps Engineer | System Administrator*
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Ryanalvi/Ryanalvi/output/github-contribution-grid-snake.svg)
+<!-- GitHub Contribution Grid Snake will be added here once configured -->
 
 ## 🎯 **About Me**
 
