@@ -3,7 +3,7 @@
 > **"Code, Deploy, Lead, Repeat" 🔄**  
 > *COO & Co-Founder of Geek Tech Sol | Full-Stack Developer | DevOps Engineer | System Administrator*
 
-<!-- GitHub Contribution Grid Snake will be added here once configured -->
+![GitHub Contribution Grid Snake](github-contribution-grid-snake.svg)
 
 ## 🎯 **About Me**
 
