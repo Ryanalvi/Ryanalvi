@@ -72,8 +72,17 @@ _From backend development to infrastructure management, I've mastered the full s
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Frontend Development** _(AI-Assisted)_
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+_While frontend isn't my primary focus, I can effectively work with it using AI assistance and have a solid understanding of web structures and modern frameworks._
 
 ### **Frameworks & Libraries**
 
@@ -121,15 +130,6 @@ _From backend development to infrastructure management, I've mastered the full s
 
 ![SSH](https://img.shields.io/badge/-SSH-000000?style=flat-square&logo=ssh&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-### **Design & Frontend** _(AI-Assisted)_
-
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-_While frontend isn't my primary focus, I can effectively work with it using AI assistance and have a solid understanding of web structures and modern frameworks._
 
 ### **Office & Productivity Tools**
 
@@ -186,7 +186,7 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎯 **100+ Odoo Installations** | Complete setup with dependencies, backups, and cloud sync | Odoo, Python, Docker, Cloud Platforms |
-| 🤖 **Gaming Bot Infrastructure** | Advanced automation for Apex Legends XP farming | Python, PyAutoGUI, Network Infrastructure |
+| 🤖 **Gaming Bot Infrastructure** | Advanced automation for Apex Legends XP farming | Python, Network Infrastructure |
 | 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, SEO, Hosting Management |
 | 🛒 **E-commerce Solutions** | Multiple profitable WooCommerce implementations | WordPress, WooCommerce, PHP, MySQL |
 | 🏢 **IT Agency Growth** | Scaled from startup to established service provider | Team Leadership, Business Development |
