@@ -77,6 +77,7 @@ _From backend development to infrastructure management, I've mastered the full s
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
@@ -102,7 +103,20 @@ _From backend development to infrastructure management, I've mastered the full s
 ### **CMS & Content Platforms**
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+
+### **Page Builders & WordPress Tools**
+
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![Divi](https://img.shields.io/badge/-Divi-6C38FF?style=flat-square&logo=divi&logoColor=white)
+![WP Bakery](https://img.shields.io/badge/-WP%20Bakery-0073AA?style=flat-square&logo=wordpress&logoColor=white)
+
+### **Hosting & Control Panels**
+
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![HestiaCP](https://img.shields.io/badge/-HestiaCP-2C3E50?style=flat-square&logo=hestiacp&logoColor=white)
+![Bluehost](https://img.shields.io/badge/-Bluehost-0073AA?style=flat-square&logo=bluehost&logoColor=white)
 
 ### **DevOps & Infrastructure**
 
@@ -133,7 +147,17 @@ _From backend development to infrastructure management, I've mastered the full s
 ### **Networking & Security**
 
 ![SSH](https://img.shields.io/badge/-SSH-000000?style=flat-square&logo=ssh&logoColor=white)
+![RDP](https://img.shields.io/badge/-RDP-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![VNC](https://img.shields.io/badge/-VNC-4A90E2?style=flat-square&logo=vnc&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### **Video & Media Platforms**
+
+![Kaltura](https://img.shields.io/badge/-Kaltura-1F1F1F?style=flat-square&logo=kaltura&logoColor=white)
+
+### **Network Infrastructure**
+
+Network Switches Static IP Routing Cable Punching
 
 ### **Office & Productivity Tools**
 
@@ -141,6 +165,12 @@ _From backend development to infrastructure management, I've mastered the full s
 ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### **Digital Marketing & SEO**
+
+![SEO](https://img.shields.io/badge/-SEO-FF6B35?style=flat-square&logo=seo&logoColor=white)
+![Social Media Marketing](https://img.shields.io/badge/-Social%20Media%20Marketing-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
 ### **Mobile & App Development**
 
