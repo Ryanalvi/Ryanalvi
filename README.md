@@ -147,9 +147,25 @@ _From backend development to infrastructure management, I've mastered the full s
 ### **Networking & Security**
 
 ![SSH](https://img.shields.io/badge/-SSH-000000?style=flat-square&logo=ssh&logoColor=white)
+![FTP](https://img.shields.io/badge/-FTP-FF0000?style=flat-square&logo=ftp&logoColor=white)
+![SFTP](https://img.shields.io/badge/-SFTP-1F1F1F?style=flat-square&logo=sftp&logoColor=white)
 ![RDP](https://img.shields.io/badge/-RDP-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![VNC](https://img.shields.io/badge/-VNC-4A90E2?style=flat-square&logo=vnc&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![DNS Management](https://img.shields.io/badge/-DNS%20Management-1F1F1F?style=flat-square&logo=dns&logoColor=white)
+
+### **SSL & Security Certificates**
+
+![SSL/TLS](https://img.shields.io/badge/-SSL/TLS-1F1F1F?style=flat-square&logo=ssl&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![Certificate Management](https://img.shields.io/badge/-Certificate%20Management-FF6B35?style=flat-square&logo=certificate&logoColor=white)
+
+### **Email & Communication Tools**
+
+![Microsoft Outlook](https://img.shields.io/badge/-Microsoft%20Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
+![Thunderbird](https://img.shields.io/badge/-Thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=white)
+![Windows Mail](https://img.shields.io/badge/-Windows%20Mail-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Email Server Management](https://img.shields.io/badge/-Email%20Server%20Management-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### **Video & Media Platforms**
 
@@ -200,15 +216,20 @@ Computer Hardware Troubleshooting System Maintenance Repair
 * **Container Orchestration** - Proxmox VE, Docker for scalable deployments
 * **Reverse Proxy & Load Balancing** - Nginx, Traefik for domain-based routing with SSL termination
 * **Advanced Security** - Cloudflare Zero Trust, SSL certificates, and security hardening
+* **SSL Certificate Management** - Let's Encrypt automation, certificate renewal, and SSL configuration
+* **File Transfer Protocols** - FTP, SFTP, SCP for secure file management and deployment
 * **Backup & Recovery** - Automated backups, cloud sync for enterprise-grade data protection
 
 ### **🌍 Web Hosting & Enterprise Solutions**
 
 * **Server Architecture** - Building web hosting servers from scratch using cPanel, HestiaCP
 * **Web Panel Management** - Comprehensive experience with cPanel, CWP, and HestiaCP
+* **DNS Records Management** - MX, A, CNAME, TXT records, domain configuration, and DNS propagation
 * **Reverse Proxy Setup** - Configuring Nginx/Traefik for domain-based routing with SSL termination
-* **Email Infrastructure** - Complete email server setup and user management
+* **Email Infrastructure** - Complete email server setup, user management, and email client configuration
+* **SSL & Security** - Domain configuration with Let's Encrypt, security hardening, and SSL management
 * **Application Deployment** - WordPress, custom apps with database optimization
+* **Web Hosting Management** - Server monitoring, performance optimization, and client hosting solutions
 
 ---
 
