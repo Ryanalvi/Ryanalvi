@@ -110,7 +110,6 @@ _While development isn't my primary focus, I can effectively work with both fron
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FF6600?style=flat-square&logo=websocket&logoColor=white)
 ![Testing](https://img.shields.io/badge/-Testing-5CB85C?style=flat-square&logo=testing-library&logoColor=white)
-![TDD](https://img.shields.io/badge/-TDD-FF6B6B?style=flat-square&logo=test&logoColor=white)
 
 ### **Databases & Data Management**
 
