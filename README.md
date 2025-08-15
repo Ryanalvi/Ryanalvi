@@ -47,6 +47,8 @@ I'm a **self-taught developer** who chose practical learning over formal educati
 * 🎬 **Hollydan Works Canada** - Built and managed in-house VOD platform (HWCFlix)
 * 🌐 **Kaltura Integration** - Managed hosting, deployment, and thousands of video assets
 * 🔍 **SEO Optimization** - Implemented comprehensive on-page SEO strategies
+* 📝 **Content Management** - Responsible for content curation, organization, and quality control
+* 🖥️ **WordPress Website** - Developed and maintained the company's WordPress website with custom functionality
 
 ### **Gaming Infrastructure Project**
 
@@ -318,7 +320,7 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 |---------|-------------|------------|
 | 🎯 **100+ Odoo Installations** | Complete setup with dependencies, backups, and cloud sync | Odoo, Python, Docker, Cloud Platforms |
 | 🤖 **Automated Gaming Infrastructure** | Advanced automation with headless setup for Apex Legends XP farming infrastructure management | Python, Network Infrastructure, Remote Management |
-| 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, SEO, Hosting Management |
+| 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, WordPress, SEO, Content Management, Hosting Management |
 | 🛒 **E-commerce Solutions** | Multiple profitable WooCommerce implementations | WordPress, WooCommerce, PHP, MySQL |
 | 🏏 **Cricket Scoring App** | Full-stack cricket scoring application with live updates, user management, and tournament systems | FastAPI, Next.js, Tailwind CSS, shadcn/ui, WebSockets, PostgreSQL |
 | 🌐 **Web Scraping & Data Processing** | Automated data extraction with Python libraries and Excel macro processing | Python, Requests, BeautifulSoup, Pandas, Pillow, Excel Macros |
