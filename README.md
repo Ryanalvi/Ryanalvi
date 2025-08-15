@@ -206,6 +206,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 ### **Digital Marketing & SEO**
 
 ![SEO](https://img.shields.io/badge/-SEO-FF6B35?style=flat-square&logo=seo&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Social Media Marketing](https://img.shields.io/badge/-Social%20Media%20Marketing-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
@@ -321,6 +322,7 @@ I'm a **self-taught developer** who believes in practical, hands-on learning. Th
 * **🤖 AI Collaboration** - Using AI tools to enhance productivity and learning
 * **📚 Best Practices** - Following industry standards and learning from the community
 * **🔄 Iterative Improvement** - Constantly refining skills through real-world application
+* **🧠 Self-Learning Excellence** - Proven ability to master new technologies independently through research, practice, and hands-on experimentation
 
 ---
 
