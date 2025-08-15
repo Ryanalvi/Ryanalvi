@@ -73,6 +73,7 @@ _From backend development to infrastructure management, I've mastered the full s
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF6B35?style=flat-square&logo=scraping&logoColor=white)
 
 ### **Frontend Development**
 
@@ -103,6 +104,10 @@ _While development isn't my primary focus, I can effectively work with both fron
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-3776AB?style=flat-square&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### **Databases & Data Management**
 
@@ -196,10 +201,15 @@ _While development isn't my primary focus, I can effectively work with both fron
 ![IP Configuration](https://img.shields.io/badge/-IP%20Configuration-0066CC?style=flat-square&logo=ip&logoColor=white)
 ![Network Cabling](https://img.shields.io/badge/-Network%20Cabling-FF6600?style=flat-square&logo=cable&logoColor=white)
 
-### **Office & Productivity Tools**
+### **Productivity & Office Tools**
 
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+
+*Excel macros, data processing, cloud storage (Google Drive, OneDrive), and collaborative tools for efficient workflow management*
+
+### **Version Control & Development Tools**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -236,6 +246,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 * **Odoo Hosting** - Complete setup with dependencies, backups, and cloud sync
 * **Custom Development** - AI-assisted Odoo module development and customization
 * **API Development** - Building and integrating API endpoints for Odoo and custom solutions
+* **Web Scraping** - Automated data extraction for products, categories, and comprehensive product information with Excel macro processing for data filtering and validation
 * **Server Deployment** - Production Odoo server setup and optimization
 * **Enterprise Integration** - Seamless integration with existing business systems
 
