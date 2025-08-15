@@ -109,6 +109,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-FF6600?style=flat-square&logo=websocket&logoColor=white)
 
 ### **Databases & Data Management**
 
@@ -251,6 +252,14 @@ _While development isn't my primary focus, I can effectively work with both fron
 * **Server Deployment** - Production Odoo server setup and optimization
 * **Enterprise Integration** - Seamless integration with existing business systems
 
+### **🏏 Full-Stack Application Development**
+
+* **Cricket Scoring App** - Complete sports application with user management, live scoring, and tournament systems
+* **Real-time Updates** - WebSocket-powered live match score visualization for viewers
+* **Modern Tech Stack** - FastAPI backend, Next.js frontend with Tailwind CSS and shadcn/ui components
+* **Team Management** - Player registration, team creation, and tournament organization
+* **Live Scoring Interface** - Real-time score updates and match statistics
+
 ### **☁️ Infrastructure & DevOps Mastery**
 
 * **Multi-Cloud Expertise** - AWS, Digital Ocean, Oracle Cloud for cost-optimized solutions
@@ -299,6 +308,11 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 | 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, SEO, Hosting Management |
 | 🛒 **E-commerce Solutions** | Multiple profitable WooCommerce implementations | WordPress, WooCommerce, PHP, MySQL |
 | 🏢 **IT Agency Growth** | Scaled from startup to established service provider | Team Leadership, Business Development |
+| **🏏 Cricket Scoring App** | **Full-stack cricket scoring application with live updates, user management, and tournament systems** |
+| **🚀 Odoo Enterprise Solutions** | **Complete Odoo hosting, customization, and AI-assisted module development** |
+| **🌐 Web Scraping & Data Processing** | **Automated data extraction with Python libraries and Excel macro processing** |
+| **☁️ Multi-Cloud Infrastructure** | **AWS, Google Cloud, Digital Ocean, Oracle Cloud deployment and management** |
+| **🔧 DevOps & System Administration** | **Proxmox, Docker, VMware, and enterprise server management** |
 
 ---
 
