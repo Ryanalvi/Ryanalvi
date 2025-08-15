@@ -115,6 +115,7 @@ _From backend development to infrastructure management, I've mastered the full s
 ### **Hosting & Control Panels**
 
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![WHM](https://img.shields.io/badge/-WHM-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![HestiaCP](https://img.shields.io/badge/-HestiaCP-2C3E50?style=flat-square&logo=hestiacp&logoColor=white)
 ![Bluehost](https://img.shields.io/badge/-Bluehost-0073AA?style=flat-square&logo=bluehost&logoColor=white)
 
@@ -143,6 +144,7 @@ _From backend development to infrastructure management, I've mastered the full s
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-932279?style=flat-square&logo=centos&logoColor=white)
+![CloudLinux](https://img.shields.io/badge/-CloudLinux-FF6600?style=flat-square&logo=cloudlinux&logoColor=white)
 
 ### **Networking & Security**
 
@@ -213,6 +215,7 @@ Computer Hardware Troubleshooting System Maintenance Repair
 
 * **Multi-Cloud Expertise** - AWS, Digital Ocean, Oracle Cloud for cost-optimized solutions
 * **On-Premise Infrastructure** - Debian, Ubuntu, Proxmox, VMware for enterprise environments
+* **Hosting-Optimized OS** - CloudLinux for secure, stable hosting environments with resource isolation
 * **Container Orchestration** - Proxmox VE, Docker for scalable deployments
 * **Reverse Proxy & Load Balancing** - Nginx, Traefik for domain-based routing with SSL termination
 * **Advanced Security** - Cloudflare Zero Trust, SSL certificates, and security hardening
@@ -223,7 +226,8 @@ Computer Hardware Troubleshooting System Maintenance Repair
 ### **🌍 Web Hosting & Enterprise Solutions**
 
 * **Server Architecture** - Building web hosting servers from scratch using cPanel, HestiaCP
-* **Web Panel Management** - Comprehensive experience with cPanel, CWP, and HestiaCP
+* **Web Panel Management** - Comprehensive experience with WHM, cPanel, CWP, and HestiaCP
+* **WHM Administration** - Multi-account management, server configuration, and hosting provider tools
 * **DNS Records Management** - MX, A, CNAME, TXT records, domain configuration, and DNS propagation
 * **Reverse Proxy Setup** - Configuring Nginx/Traefik for domain-based routing with SSL termination
 * **Email Infrastructure** - Complete email server setup, user management, and email client configuration
