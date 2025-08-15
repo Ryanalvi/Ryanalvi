@@ -1,10 +1,11 @@
-# 👨‍💻 M Ryan Alvi
+# 👨‍�� M Ryan Alvi
 
-> **"From Freelancer to COO: Building Digital Solutions & Leading Tech Teams"**
+> **"Code, Deploy, Lead, Repeat" 🔄**  
+> *COO & Co-Founder of Geek Tech Sol | Full-Stack Developer | DevOps Engineer | System Administrator*
 
----
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Ryanalvi/Ryanalvi/output/github-contribution-grid-snake.svg)
 
-## 🚀 **About Me**
+## 🎯 **About Me**
 
 > **"Success is not final, failure is not fatal: it is the courage to continue that counts."** - Winston Churchill
 
