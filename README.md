@@ -69,65 +69,65 @@ _From backend development to infrastructure management, I've mastered the full s
 
 ### **Backend Development**
 
-`PHP` `Python` `JavaScript` `HTML5` `CSS3`
+Python Flask Quart FastAPI Go Gin Bash
 
 ### **Frameworks & Libraries**
 
-`Laravel` `CodeIgniter` `CakePHP` `VueJS` `AngularJS`
+Laravel CodeIgniter CakePHP VueJS AngularJS
 
 ### **Databases & Data Management**
 
-`MySQL` `MariaDB` `MongoDB` `PostgreSQL`
+MySQL MariaDB MongoDB PostgreSQL
 
 ### **CMS & Content Platforms**
 
-`WordPress` `WooCommerce` `Odoo`
+WordPress WooCommerce Odoo
 
 ### **API Development**
 
-`RESTful APIs` `API Integration` `Webhooks`
+RESTful APIs API Integration Webhooks
 
 ### **DevOps & Infrastructure**
 
-`Docker` `Proxmox` `VMware` `VirtualBox` `LXC`
+Docker Proxmox VMware VirtualBox LXC
 
 ### **Cloud Platforms & Hosting**
 
-`AWS` `Digital Ocean` `Oracle Cloud` `Bluehost` `Hetzner`
+AWS Google Cloud Digital Ocean Oracle Cloud Bluehost Hetzner
 
 ### **Web Servers & Reverse Proxy**
 
-`Apache` `Nginx` `LiteSpeed` `Traefik`
+Apache Nginx LiteSpeed Traefik
 
 ### **Operating Systems & Virtualization**
 
-`Ubuntu` `Debian` `CentOS` `CloudLinux`
+Ubuntu Debian CentOS CloudLinux
 
 ### **Networking & Security**
 
-`SSH` `FTP` `SSL/TLS` `DNS Management` `Cloudflare Zero Trust`
+SSH FTP SSL/TLS DNS Management Cloudflare Zero Trust
 
 ### **Backup & Storage Solutions**
 
-`Automated Backups` `Cloud Sync` `Google Drive` `OneDrive` `S3`
+Automated Backups Cloud Sync Google Drive OneDrive S3
 
 ### **Design & Frontend** _(AI-Assisted)_
 
-`Adobe Photoshop` `Adobe Illustrator` `CorelDraw` `Bootstrap` `SASS` `Responsive Design`
+Adobe Photoshop Adobe Illustrator CorelDraw Bootstrap SASS Responsive Design
 
 _While frontend isn't my primary focus, I can effectively work with it using AI assistance and have a solid understanding of web structures and modern frameworks._
 
 ### **Mobile & App Development**
 
-`WebView Apps` `Android` `iOS` `App Store Publishing`
+WebView Apps Android iOS App Store Publishing
 
 ### **Office & Productivity Tools**
 
-`Microsoft Office` `Word` `Excel` `PowerPoint`
+Microsoft Office Word Excel PowerPoint
 
 ### **Hardware & Maintenance**
 
-`Computer Hardware` `Troubleshooting` `System Maintenance` `Repair`
+Computer Hardware Troubleshooting System Maintenance Repair
 
 ---
 
