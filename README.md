@@ -110,6 +110,8 @@ _While development isn't my primary focus, I can effectively work with both fron
 ![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FF6600?style=flat-square&logo=websocket&logoColor=white)
+![Testing](https://img.shields.io/badge/-Testing-5CB85C?style=flat-square&logo=testing-library&logoColor=white)
+![TDD](https://img.shields.io/badge/-TDD-FF6B6B?style=flat-square&logo=test&logoColor=white)
 
 ### **Databases & Data Management**
 
@@ -247,10 +249,14 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 * **Odoo Hosting** - Complete setup with dependencies, backups, and cloud sync
 * **Custom Development** - AI-assisted Odoo module development and customization
-* **API Development** - Building and integrating API endpoints for Odoo and custom solutions
-* **Web Scraping** - Automated data extraction for products, categories, and comprehensive product information with Excel macro processing for data filtering and validation
 * **Server Deployment** - Production Odoo server setup and optimization
 * **Enterprise Integration** - Seamless integration with existing business systems
+
+### **🔧 Core Development & Automation**
+
+* **API Development** - Building and integrating API endpoints for custom solutions and third-party integrations
+* **Web Scraping** - Automated data extraction for products, categories, and comprehensive product information with Excel macro processing for data filtering and validation
+* **Data Processing** - Python-based data manipulation using Pandas, Requests, BeautifulSoup, and Pillow for comprehensive data workflows
 
 ### **🏏 Full-Stack Application Development**
 
@@ -259,6 +265,14 @@ _While development isn't my primary focus, I can effectively work with both fron
 * **Modern Tech Stack** - FastAPI backend, Next.js frontend with Tailwind CSS and shadcn/ui components
 * **Team Management** - Player registration, team creation, and tournament organization
 * **Live Scoring Interface** - Real-time score updates and match statistics
+* **Comprehensive Testing** - 280 total tests including unit, integration, API, type, authentication, and manual testing with AI assistance
+
+### **🧪 Testing & Quality Assurance**
+
+* **Test-Driven Development** - Comprehensive testing strategy ensuring code quality and reliability
+* **Testing Coverage** - Unit, integration, API, type, authentication, and manual testing
+* **Quality Assurance** - AI-assisted test generation and maintenance for efficient development workflows
+* **Production Standards** - Enterprise-level testing practices ensuring stable, reliable applications
 
 ### **☁️ Infrastructure & DevOps Mastery**
 
