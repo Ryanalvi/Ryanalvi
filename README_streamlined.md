@@ -23,7 +23,7 @@ I'm a **self-taught developer** who chose practical learning over formal educati
 ### **Geek Tech Sol** - _COO & Co-Founder_
 
 * 🎯 **Co-founded & Leading** strategic initiatives and technical operations
-* 🌟 **Odoo Hosting Specialist** - 100+ successful Odoo installations and deployments
+* 🌟 **Odoo Hosting Specialist** - 100+ successful installations and deployments
 * 🚀 **IT Consulting** - B2B solutions for IT service providers and businesses
 * 🤖 **Python Development** - Currently developing Odoo apps and automation solutions
 * ☁️ **Infrastructure Management** - Leading cloud solutions and server deployments
@@ -245,9 +245,8 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 ### **🤖 Odoo & Enterprise Solutions**
 
-* **Odoo Hosting** - Complete setup with dependencies, backups, and cloud sync
+* **Complete Hosting & Deployment** - 100+ successful installations with dependencies, backups, and cloud sync
 * **Custom Development** - AI-assisted Odoo module development and customization
-* **Server Deployment** - Production Odoo server setup and optimization
 * **Enterprise Integration** - Seamless integration with existing business systems
 
 ### **🔧 Core Development & Automation**
@@ -332,7 +331,6 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 ### **🏆 Key Achievements**
 
 * **🏢 IT Agency Growth** - Scaled from startup to established service provider with team leadership and business development
-* **🚀 Odoo Enterprise Solutions** - Complete Odoo hosting, customization, and AI-assisted module development expertise
 * **📊 10+ Years Experience** - Deep expertise gained from continuous learning and hands-on practice since 2014
 * **🌍 Global Client Base** - Successfully managed international projects and distributed teams
 * **🔒 Security Excellence** - Implemented enterprise-level security practices across all client solutions
