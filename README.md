@@ -189,9 +189,9 @@ _From backend development to infrastructure management, I've mastered the full s
 
 ### **Network Infrastructure**
 
-![Network Switches](https://img.shields.io/badge/-Network%20Switches-1F1F1F?style=flat-square&logo=network&logoColor=white)
-![Static IP Routing](https://img.shields.io/badge/-Static%20IP%20Routing-0066CC?style=flat-square&logo=ip&logoColor=white)
-![Cable Punching](https://img.shields.io/badge/-Cable%20Punching-FF6600?style=flat-square&logo=cable&logoColor=white)
+![Network Administration](https://img.shields.io/badge/-Network%20Administration-1F1F1F?style=flat-square&logo=network&logoColor=white)
+![IP Configuration](https://img.shields.io/badge/-IP%20Configuration-0066CC?style=flat-square&logo=ip&logoColor=white)
+![Network Cabling](https://img.shields.io/badge/-Network%20Cabling-FF6600?style=flat-square&logo=cable&logoColor=white)
 
 ### **Office & Productivity Tools**
 
@@ -216,9 +216,10 @@ _From backend development to infrastructure management, I've mastered the full s
 ### **Hardware & Maintenance**
 
 ![Computer Hardware](https://img.shields.io/badge/-Computer%20Hardware-1F1F1F?style=flat-square&logo=hardware&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-FF6B35?style=flat-square&logo=troubleshooting&logoColor=white)
-![System Maintenance](https://img.shields.io/badge/-System%20Maintenance-4285F4?style=flat-square&logo=maintenance&logoColor=white)
-![Hardware Repair](https://img.shields.io/badge/-Hardware%20Repair-FF6600?style=flat-square&logo=repair&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Hardware Troubleshooting](https://img.shields.io/badge/-Hardware%20Troubleshooting-FF6B35?style=flat-square&logo=troubleshooting&logoColor=white)
+![PC Servicing](https://img.shields.io/badge/-PC%20Servicing-FF6600?style=flat-square&logo=computer&logoColor=white)
 
 ---
 
@@ -256,6 +257,15 @@ _From backend development to infrastructure management, I've mastered the full s
 * **SSL & Security** - Domain configuration with Let's Encrypt, security hardening, and SSL management
 * **Application Deployment** - WordPress, custom apps with database optimization
 * **Web Hosting Management** - Server monitoring, performance optimization, and client hosting solutions
+
+### **🖥️ Hardware & System Administration**
+
+* **Complete PC Servicing** - Hardware cleaning, thermal paste replacement, power supply maintenance
+* **OS Installation & Configuration** - Windows, Linux installation with bootable media creation
+* **BIOS & Driver Management** - System configuration, driver updates, and optimization
+* **Printer Infrastructure** - USB and network printer setup for laser and thermal printers
+* **Hardware Troubleshooting** - Boot issues, display problems, POST failures, and component diagnostics
+* **Software Deployment** - Complete software installation and system optimization for end users
 
 ---
 
