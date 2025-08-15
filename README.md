@@ -67,33 +67,67 @@ I'm a **self-taught developer** who chose practical learning over formal educati
 
 _From backend development to infrastructure management, I've mastered the full spectrum of modern IT technologies_
 
-### **Backend & Development**
+### **Backend Development**
 
-* **Languages:** PHP, Python, JavaScript, HTML5, CSS3
-* **Frameworks:** Laravel, CodeIgniter, CakePHP, VueJS, AngularJS
-* **Databases:** MySQL, MariaDB, MongoDB, PostgreSQL
-* **CMS:** WordPress, WooCommerce, Odoo
-* **API Development:** Working with API endpoints and integrations
+`PHP` `Python` `JavaScript` `HTML5` `CSS3`
+
+### **Frameworks & Libraries**
+
+`Laravel` `CodeIgniter` `CakePHP` `VueJS` `AngularJS`
+
+### **Databases & Data Management**
+
+`MySQL` `MariaDB` `MongoDB` `PostgreSQL`
+
+### **CMS & Content Platforms**
+
+`WordPress` `WooCommerce` `Odoo`
+
+### **API Development**
+
+`RESTful APIs` `API Integration` `Webhooks`
 
 ### **DevOps & Infrastructure**
 
-* **Hosting:** cPanel, VPS Management (CentOS, CloudLinux, Ubuntu, Debian)
-* **Cloud Platforms:** AWS, Digital Ocean, Bluehost, Oracle Cloud
-* **Web Servers:** Apache, Nginx, LiteSpeed, Traefik
-* **Virtualization:** Proxmox, VMware, Oracle VirtualBox, Docker
-* **Networking:** SSH, FTP, SSL, DNS Management, Cloudflare Zero Trust
-* **Backup Solutions:** Automated on-site/off-site backups, cloud sync (Google Drive, OneDrive, S3)
+`Docker` `Proxmox` `VMware` `VirtualBox` `LXC`
 
-### **Design & Frontend**
+### **Cloud Platforms & Hosting**
 
-* **Design Tools:** Adobe Photoshop, Adobe Illustrator, CorelDraw
-* **Frontend:** Bootstrap, SASS, Responsive Design
-* **Mobile:** WebView Apps (Android/iOS), App Store Publishing
+`AWS` `Digital Ocean` `Oracle Cloud` `Bluehost` `Hetzner`
 
-### **Office & Productivity**
+### **Web Servers & Reverse Proxy**
 
-* **Microsoft Office:** Word, Excel, PowerPoint
-* **Hardware & Maintenance:** Computer troubleshooting, maintenance, and repair
+`Apache` `Nginx` `LiteSpeed` `Traefik`
+
+### **Operating Systems & Virtualization**
+
+`Ubuntu` `Debian` `CentOS` `CloudLinux`
+
+### **Networking & Security**
+
+`SSH` `FTP` `SSL/TLS` `DNS Management` `Cloudflare Zero Trust`
+
+### **Backup & Storage Solutions**
+
+`Automated Backups` `Cloud Sync` `Google Drive` `OneDrive` `S3`
+
+### **Design & Frontend** _(AI-Assisted)_
+
+`Adobe Photoshop` `Adobe Illustrator` `CorelDraw` `Bootstrap` `SASS` `Responsive Design`
+
+_While frontend isn't my primary focus, I can effectively work with it using AI assistance and have a solid understanding of web structures and modern frameworks._
+
+### **Mobile & App Development**
+
+`WebView Apps` `Android` `iOS` `App Store Publishing`
+
+### **Office & Productivity Tools**
+
+`Microsoft Office` `Word` `Excel` `PowerPoint`
+
+### **Hardware & Maintenance**
+
+`Computer Hardware` `Troubleshooting` `System Maintenance` `Repair`
 
 ---
 
