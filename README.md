@@ -72,7 +72,7 @@ _From backend development to infrastructure management, I've mastered the full s
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![API Development](https://img.shields.io/badge/-API%20Development-FF6B35?style=flat-square&logo=api&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### **Frontend Development**
 
@@ -234,6 +234,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 * **Odoo Hosting** - Complete setup with dependencies, backups, and cloud sync
 * **Custom Development** - AI-assisted Odoo module development and customization
+* **API Development** - Building and integrating API endpoints for Odoo and custom solutions
 * **Server Deployment** - Production Odoo server setup and optimization
 * **Enterprise Integration** - Seamless integration with existing business systems
 
