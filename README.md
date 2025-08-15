@@ -49,6 +49,7 @@ I'm a **self-taught developer** who chose practical learning over formal educati
 * 🔍 **SEO Optimization** - Implemented comprehensive on-page SEO strategies
 * 📝 **Content Management** - Responsible for content curation, organization, and quality control
 * 🖥️ **WordPress Website** - Developed and maintained the company's WordPress website with custom functionality
+* 💼 **IT Consulting** - Provided comprehensive IT consulting services for infrastructure and technical strategy
 
 ### **Gaming Infrastructure Project**
 
