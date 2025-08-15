@@ -78,8 +78,15 @@ _From backend development to infrastructure management, I've mastered the full s
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### **UI Component Libraries**
+
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcn&logoColor=white)
 
 ### **Design & Graphics**
 
@@ -97,8 +104,14 @@ _From backend development to infrastructure management, I've mastered the full s
 ### **Databases & Data Management**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Database Management Tools**
+
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### **CMS & Content Platforms**
 
@@ -176,7 +189,9 @@ _From backend development to infrastructure management, I've mastered the full s
 
 ### **Network Infrastructure**
 
-Network Switches Static IP Routing Cable Punching
+![Network Switches](https://img.shields.io/badge/-Network%20Switches-1F1F1F?style=flat-square&logo=network&logoColor=white)
+![Static IP Routing](https://img.shields.io/badge/-Static%20IP%20Routing-0066CC?style=flat-square&logo=ip&logoColor=white)
+![Cable Punching](https://img.shields.io/badge/-Cable%20Punching-FF6600?style=flat-square&logo=cable&logoColor=white)
 
 ### **Office & Productivity Tools**
 
@@ -193,11 +208,17 @@ Network Switches Static IP Routing Cable Punching
 
 ### **Mobile & App Development**
 
-WebView Apps Android iOS App Store Publishing
+![WebView Apps](https://img.shields.io/badge/-WebView%20Apps-4285F4?style=flat-square&logo=webview&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![App Store Publishing](https://img.shields.io/badge/-App%20Store%20Publishing-0D96F6?style=flat-square&logo=appstore&logoColor=white)
 
 ### **Hardware & Maintenance**
 
-Computer Hardware Troubleshooting System Maintenance Repair
+![Computer Hardware](https://img.shields.io/badge/-Computer%20Hardware-1F1F1F?style=flat-square&logo=hardware&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-FF6B35?style=flat-square&logo=troubleshooting&logoColor=white)
+![System Maintenance](https://img.shields.io/badge/-System%20Maintenance-4285F4?style=flat-square&logo=maintenance&logoColor=white)
+![Hardware Repair](https://img.shields.io/badge/-Hardware%20Repair-FF6600?style=flat-square&logo=repair&logoColor=white)
 
 ---
 
