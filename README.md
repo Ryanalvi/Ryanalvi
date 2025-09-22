@@ -350,7 +350,7 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 | 🤖 **Automated Gaming Infrastructure** | Advanced automation with headless setup for Apex Legends XP farming infrastructure management | Python, Network Infrastructure, Remote Management |
 | 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, WordPress, SEO, Content Management, Hosting Management |
 | 🛒 **E-commerce Solutions** | Multiple profitable WooCommerce implementations | WordPress, WooCommerce, PHP, MySQL |
-| 🏏 **Cricket Scoring App** | Full-stack cricket scoring application with live updates, user management, and tournament systems | FastAPI, Next.js, Tailwind CSS, shadcn/ui, WebSockets, PostgreSQL |
+| 🏏 **Cricket Scoring App** | Full-stack cricket scoring application with live updates, user management, and tournament systems | FastAPI, Next.js, Tailwind CSS, WebSockets, PostgreSQL |
 | 🌐 **Web Scraping & Data Processing** | Automated data extraction with Python libraries and Excel macro processing | Python, Requests, BeautifulSoup, Pandas, Pillow, Excel Macros |
 | ☁️ **Multi-Cloud Infrastructure** | AWS, Google Cloud, Digital Ocean, Oracle Cloud deployment and management | AWS, Google Cloud, Digital Ocean, Oracle Cloud, Docker, Terraform |
 | 🔧 **DevOps & System Administration** | Proxmox, Docker, VMware, and enterprise server management | Proxmox, Docker, VMware, Ubuntu, CentOS, CloudLinux |
