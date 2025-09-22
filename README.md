@@ -61,7 +61,11 @@ I'm a **self-taught developer** who chose practical learning over formal educati
 
 ### **Healthcare Technology Solutions**
 
-* 🏥 **Doctor Appointment System (Home Health App)** - Built comprehensive healthcare management platform with appointment scheduling, patient management, medical history tracking, prescription uploads, and report management using WordPress and Divi theme
+* 🏥 **Doctor Appointment System (Home Health App)** - Built comprehensive healthcare management platform using WordPress and Divi theme
+  * 👥 **Patient Management** - Medical history tracking, prescription uploads, and report management
+  * 👨‍⚕️ **Doctor Management** - Area zones, time slots, availability, rates, and rating system
+  * 🧪 **Laboratory Integration** - Partner laboratory management and coordination
+  * 💊 **Pharmacy Integration** - Partner pharmacy management and coordination
 
 ### **Education Technology Solutions**
 
@@ -311,7 +315,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 ### **🏥 Healthcare Technology Solutions**
 
-* **Healthcare Management Systems** - Built comprehensive doctor appointment systems with home health features, patient management, medical history tracking, and document management capabilities
+* **Healthcare Management Systems** - Built comprehensive doctor appointment systems with home health features, patient management, medical history tracking, document management, doctor management with area zones, time slots, availability, rates, ratings, laboratory management, and pharmacy management capabilities
 
 ### **📚 Education Technology Solutions**
 
@@ -339,7 +343,7 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎯 **100+ Odoo Installations** | Complete setup with dependencies, backups, and cloud sync | Odoo, Python, Docker, Cloud Platforms |
-| 🏥 **Doctor Appointment System** | Comprehensive healthcare management platform with appointment scheduling, patient records, medical history, prescription uploads, and report management | WordPress, Divi Theme, PHP, MySQL |
+| 🏥 **Doctor Appointment System** | Comprehensive healthcare management platform with appointment scheduling, patient records, medical history, prescription uploads, report management, doctor management with area zones, time slots, rates, ratings, laboratory management, and pharmacy management | WordPress, Divi Theme, PHP, MySQL |
 | 📚 **PHP Learning Management System** | Custom LMS with Zoom integration for virtual education during COVID-19 lockdown | PHP, MySQL, Zoom API, WebRTC |
 | 🔍 **Large-Scale Data Scraping** | Engineered scraper extracting 350K+ products with automated cleaning, CSV export, and Excel macro processing | Python, Requests, BeautifulSoup, Pandas, Excel Macros, CSV Processing |
 | 📊 **Advanced SQL Data Processing** | Pure SQL-based multi-table data extraction with cross-version MariaDB compatibility and complex transformation | SQL, MariaDB, Database Design, Data Processing, CSV Export |
