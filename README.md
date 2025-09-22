@@ -399,7 +399,7 @@ I'm a **self-taught developer** who believes in practical, hands-on learning. Th
 
 ## 🤝 **Let's Connect!**
 
-* **Company:** [Geek Tech Sol](https://geektechsol.com)
+* **Company:** [Geek Tech Sol](https://www.geektechsol.com)
 * **Role:** COO & IT Consultant
 * **Specialization:** Odoo Hosting, IT Consulting, Technical Architecture
 
