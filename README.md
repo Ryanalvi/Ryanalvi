@@ -274,7 +274,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 
 * **Cricket Scoring App** - Complete sports application with user management, live scoring, and tournament systems
 * **Real-time Updates** - WebSocket-powered live match score visualization for viewers
-* **Modern Tech Stack** - FastAPI backend, Next.js frontend with Tailwind CSS and shadcn/ui components
+* **Modern Tech Stack** - FastAPI backend, Next.js frontend with Tailwind CSS
 * **Team Management** - Player registration, team creation, and tournament organization
 * **Live Scoring Interface** - Real-time score updates and match statistics
 * **Comprehensive Testing** - 280 total tests including unit, integration, API, type, authentication, and manual testing with AI assistance
