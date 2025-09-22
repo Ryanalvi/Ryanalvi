@@ -309,7 +309,7 @@ _While development isn't my primary focus, I can effectively work with both fron
 * **Reverse Proxy Setup** - Configuring Nginx/Traefik for domain-based routing with SSL termination
 * **Email Infrastructure** - Complete email server setup, user management, and email client configuration
 * **SSL & Security** - Domain configuration with Let's Encrypt, security hardening, and SSL management
-* **Application Deployment** - WordPress, custom apps with database optimization
+* **Application Deployment** - WordPress, Python applications, Next.js applications, custom apps with database optimization
 * **Remote Customer Support** - Providing technical support and troubleshooting via TeamViewer and AnyDesk
 * **Web Hosting Management** - Server monitoring, performance optimization, and client hosting solutions
 
