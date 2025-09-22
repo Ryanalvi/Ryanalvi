@@ -59,6 +59,14 @@ I'm a **self-taught developer** who chose practical learning over formal educati
   * ⚡ **Virtualization:** Virtual machine management and optimization
   * 🔧 **Troubleshooting:** System diagnostics and problem resolution
 
+### **Healthcare Technology Solutions**
+
+* 🏥 **Doctor Appointment System (Home Health App)** - Built comprehensive healthcare management platform with appointment scheduling, patient management, medical history tracking, prescription uploads, and report management using WordPress and Divi theme
+
+### **Education Technology Solutions**
+
+* 📚 **PHP Learning Management System (LMS)** - Developed custom LMS with Zoom integration for live classes during COVID-19 lockdown, enabling seamless virtual education delivery
+
 ### **Freelance & Ongoing Work**
 
 * 🌐 **WordPress Development** - Custom themes, WooCommerce, page builders (Elementor, Divi, WP Bakery)
@@ -253,8 +261,10 @@ _While development isn't my primary focus, I can effectively work with both fron
 ### **🔧 Core Development & Automation**
 
 * **API Development** - Building and integrating API endpoints for custom solutions and third-party integrations
-* **Web Scraping** - Automated data extraction for products, categories, and comprehensive product information with Excel macro processing for data filtering and validation
-* **Data Processing** - Python-based data manipulation using Pandas, Requests, BeautifulSoup, and Pillow for comprehensive data workflows
+* **Large-Scale Web Scraping** - Engineered scrapers extracting 350K+ products with automated data cleaning, duplicate removal, inventory validation, CSV export, and Excel macro processing for data filtering and validation
+* **Advanced Data Processing** - Python-based data manipulation using Pandas, Requests, BeautifulSoup, and Pillow for comprehensive data workflows and transformation
+* **Excel Macro Development** - Automated data cleaning and processing using VBA macros for efficient data manipulation and analysis
+* **Advanced SQL Development** - Pure SQL-based multi-table data extraction with complex processing, cleaning, and sorting to match CSV templates, with cross-version MariaDB compatibility (handling older syntax requirements and variable assignments)
 
 ### **🏏 Full-Stack Application Development**
 
@@ -299,6 +309,14 @@ _While development isn't my primary focus, I can effectively work with both fron
 * **Remote Customer Support** - Providing technical support and troubleshooting via TeamViewer and AnyDesk
 * **Web Hosting Management** - Server monitoring, performance optimization, and client hosting solutions
 
+### **🏥 Healthcare Technology Solutions**
+
+* **Healthcare Management Systems** - Built comprehensive doctor appointment systems with home health features, patient management, medical history tracking, and document management capabilities
+
+### **📚 Education Technology Solutions**
+
+* **Learning Management Systems** - Developed custom LMS with Zoom integration for remote education during COVID-19, enabling seamless virtual classroom experiences and course management
+
 ### **🖥️ Hardware & System Administration**
 
 * **Complete PC Servicing** - Hardware cleaning, thermal interface material replacement, power supply unit (PSU) maintenance
@@ -321,6 +339,10 @@ _Showcasing innovative solutions that demonstrate technical excellence and busin
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎯 **100+ Odoo Installations** | Complete setup with dependencies, backups, and cloud sync | Odoo, Python, Docker, Cloud Platforms |
+| 🏥 **Doctor Appointment System** | Comprehensive healthcare management platform with appointment scheduling, patient records, medical history, prescription uploads, and report management | WordPress, Divi Theme, PHP, MySQL |
+| 📚 **PHP Learning Management System** | Custom LMS with Zoom integration for virtual education during COVID-19 lockdown | PHP, MySQL, Zoom API, WebRTC |
+| 🔍 **Large-Scale Data Scraping** | Engineered scraper extracting 350K+ products with automated cleaning, CSV export, and Excel macro processing | Python, Requests, BeautifulSoup, Pandas, Excel Macros, CSV Processing |
+| 📊 **Advanced SQL Data Processing** | Pure SQL-based multi-table data extraction with cross-version MariaDB compatibility and complex transformation | SQL, MariaDB, Database Design, Data Processing, CSV Export |
 | 🤖 **Automated Gaming Infrastructure** | Advanced automation with headless setup for Apex Legends XP farming infrastructure management | Python, Network Infrastructure, Remote Management |
 | 🎬 **VOD Platform (HWCFlix)** | Enterprise-level video streaming solution | Kaltura, WordPress, SEO, Content Management, Hosting Management |
 | 🛒 **E-commerce Solutions** | Multiple profitable WooCommerce implementations | WordPress, WooCommerce, PHP, MySQL |
